@@ -20,14 +20,12 @@ Introduction to Devops
 	Devops Tools
 	Conﬁguration management
 	Continuous Integration and Deployment
-
-Time - 1hrs
 Introduction to Cloud computing
 	What is Cloud Computing
 	How Cloud Computing are helpful
 	Cloud's role in DevOps orchestratio
  
-Time - 1 hrs
+Time - 30 mins
 Introduction to Virtualization
 	What is Virtualization?
 	History of Virtualization
@@ -35,8 +33,9 @@ Introduction to Virtualization
 	Types of Server Virtualization
 	Beneﬁts of Virtualization
 	Important Virtualization products
+	
 
-Time - 1 hrs
+Time - 30 mins
 VAGRANT
 	Introduction
 	Why and what is Vagrant
@@ -53,8 +52,42 @@ VAGRANT
 	Connecting to the VM
 	Add required Images to Vagrant
 	Using Vagrant.
-
-Time - 4 hrs
+	
+Time - 2 hrs	
+What is AWS
+	Use cases in AWS
+	Companies using AWS and Market tends
+	Different  Services offered in AWS
+	Understanding availability zone
+	region
+	Creating your own account in AWS
+	Creating a VPC
+	subnet
+	Running your own EC2 instance
+	Connecting in EC2 and installing https in Ec2
+	
+	Overview of S3
+	Creating bucket in S3
+	Creating Objects in S3
+	Accessing the S3 objects from web
+	Creating Glacier 
+	
+	Overview of AWS Database
+	Creating RDS database
+	Creating UAT database
+	Creating Production Database (Primary and Secondary node)
+	
+	Overview of AWS management Tools
+	CloudWatch
+    	CloudFormation
+	
+	Networking & Content Delivery
+	VPC
+    	Route 53
+	
+	Security, Identity & Compliance
+    	IAM
+Time - 3 hrs
 GIT: Version Control
 	Introduction
 	Version control systems
@@ -98,7 +131,7 @@ Docker– Containers.
 	Exposing container ports
 	Container Routing
 
-Time - 4hrs
+Time - 5 hrs
 Jenkins – Continuous Integration
 	Introduction.
 	Understanding continuous integration
@@ -143,7 +176,9 @@ Jenkins – Continuous Integration
 Time - 4hrs
 Ansible:
 	Introduction to Ansible
-	Ansible Architecture Ÿ  Ansible terminology Ÿ   Ansible commands
+	Ansible Architecture  
+	Ansible terminology
+	Ansible commands
 	How to add nodes to server
 	Ansible installation and conﬁguration
 	Installing ssh on nodes
@@ -157,7 +192,7 @@ Ansible:
 	Roles
 	Tags
 	How to write playbooks
-	PYYAML overview
+	YAML overview
 	How to write playbooks
 	Ansible modules
 	Ansbible Roles
@@ -168,7 +203,8 @@ Ansible:
 Time - 4hrs	
 Puppet for conﬁguration management
 	What is Puppet?
-	How puppet works Ÿ	Puppet Architecture 	
+	How puppet works 
+	Puppet Architecture 	
 	Master and Agents
 	Conﬁguration Language
 	Resource Abstraction Layer
