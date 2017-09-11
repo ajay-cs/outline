@@ -224,9 +224,6 @@
 			Virtual Resources
 			Exported Resources
 			Manifests
-			
-			
-			http://www.softwaretestinghelp.com/integration-of-jenkins-with-selenium-webdriver/
 			Relationships and Ordering
 			Modules and Classes
 			Class Parameters
@@ -308,3 +305,6 @@
 			Setting allowed client hosts for NRPE
 			Creating new NRPE command deﬁnitions securely
 			Creating a custom NRPE script.
+
+
+	http://www.softwaretestinghelp.com/integration-of-jenkins-with-selenium-webdriver/
