@@ -224,6 +224,9 @@
 			Virtual Resources
 			Exported Resources
 			Manifests
+			
+			
+			http://www.softwaretestinghelp.com/integration-of-jenkins-with-selenium-webdriver/
 			Relationships and Ordering
 			Modules and Classes
 			Class Parameters
